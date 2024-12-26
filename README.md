@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SnakeGame
 webiste to run the program:
 - https://joshua-cheng2210.github.io/SnakeGame/
@@ -18,6 +17,4 @@ topics learnt
 - how to initilize npm project
 - how to host to program on git hub actions
 - learnt about project depedencies and dev dependencies
-=======
 
->>>>>>> 7b11739352098d23546d874139b91cedcab6f794

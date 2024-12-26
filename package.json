@@ -8,7 +8,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && javascript-obfuscator ./dist/assets/index-DdHklyMq.js --output ./dist/assets/index-DdHklyMq.js --simplify false",
+    "build": "vite build && javascript-obfuscator ./dist/assets/index.js --output ./dist/assets/index.js --simplify false",
     "preview": "vite preview"
   },
   "devDependencies": {
