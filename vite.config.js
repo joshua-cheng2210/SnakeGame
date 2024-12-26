@@ -2,6 +2,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   build: {
+    base: './', // Ensure the base path is set correctly for GitHub Pages
     outDir: 'dist',
     rollupOptions: {
       input: {
