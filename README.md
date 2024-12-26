@@ -40,7 +40,7 @@
 - build a kmore complex project
 - learn a framework
 - have a better readme.md file structure
-    - # project title
+    <!-- - # project title
     - ## project details and purpose
     - ## project demo (in img or vid)
     - ## Usage and Installation
@@ -51,4 +51,4 @@
     - ## Find a bug?
     - ## Known Issues
     - ## future improvements:
-    - ## go Fund me Coffee
+    - ## go Fund me Coffee -->
