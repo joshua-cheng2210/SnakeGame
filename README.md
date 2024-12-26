@@ -52,3 +52,4 @@
     - Known Issues
     - future improvements:
     - go Fund me Coffee
+    - contacts
